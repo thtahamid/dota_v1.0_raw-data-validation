@@ -1,6 +1,6 @@
 tqdm
 
-# DOTA v1.0 Data Validation Guide
+# DOTA v1.0 and later version's Data Validation Guide
 
 This guide explains how to set up and run a visual verification step for DOTA v1.0 raw OBB (Oriented Bounding Box) labels. The goal is to visually confirm that label boxes align with the satellite imagery before filtering or training.
 
